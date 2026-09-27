@@ -1,7 +1,7 @@
 {
-  "versionCode": 111,
-  "versionName": "1.111",
+  "versionCode": 112,
+  "versionName": "1.112",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Показывать список изменений обновления списком, скрываемый баннер и кнопка \"Об обновлении\"",
-  "sourceSha": "81334d6638acf68e372775ed3ffe897a7ea7d776"
+  "notes": "* Исправить: кнопка \"Об обновлении\" пропадала, если апдейтов уже нет",
+  "sourceSha": "1f838d38d27ee16c12781579d0de8806266b54b6"
 }
