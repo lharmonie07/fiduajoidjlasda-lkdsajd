@@ -1,6 +1,6 @@
 {
-  "versionCode": 102,
-  "versionName": "1.102",
+  "versionCode": 104,
+  "versionName": "1.104",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "Первая публикация облачного обновления. Сборка из lharmonie07/myapp@c58dd9c."
+  "notes": "Добавлена сортировка объектов по имени (А→Я/Я→А) в предпросмотре бандла. Сборка из lharmonie07/myapp@d99d9c5."
 }
