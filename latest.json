@@ -1,6 +1,6 @@
 {
-  "versionCode": 105,
-  "versionName": "1.105",
+  "versionCode": 106,
+  "versionName": "1.106",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "Добавлен номер установленной версии внизу главного экрана. Сборка из lharmonie07/myapp@eea44f9."
+  "notes": "Автоматическая сборка из lharmonie07/myapp@1aad98afd490e0848e92a5611fac394b90580dbd"
 }
