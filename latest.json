@@ -1,7 +1,7 @@
 {
-  "versionCode": 116,
-  "versionName": "1.116",
+  "versionCode": 117,
+  "versionName": "1.117",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Модели: исправить дефолты атрибутов узлов/рёбер по исходнику аддона",
-  "sourceSha": "37d85f22fcf54a5ab352a878528405eba3401385"
+  "notes": "* Модели: переключатель показа узлов во вьюпорте (диагностика лагов)",
+  "sourceSha": "10313f238f67931e25e207cb4d862b8c08ffda56"
 }
