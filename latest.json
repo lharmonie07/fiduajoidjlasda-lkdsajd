@@ -1,7 +1,7 @@
 {
-  "versionCode": 127,
-  "versionName": "1.127",
+  "versionCode": 128,
+  "versionName": "1.128",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Импорт OBJ теперь генерирует рёбра (Edge), не только узлы и поверхность",
-  "sourceSha": "93b3977a37b5066c579cd40a69ff1160fc3e2285"
+  "notes": "* Пересчёт LCC у MacroNode, зеркальное отражение вместо поворота, ручное добавление узлов/рёбер",
+  "sourceSha": "9dd24006be52b5fc7582920c328b00776efd15ce"
 }
