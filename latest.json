@@ -1,7 +1,7 @@
 {
-  "versionCode": 114,
-  "versionName": "1.114",
+  "versionCode": 115,
+  "versionName": "1.115",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Исправить сборку: убрать несуществующий артефакт ui-viewinterop\n* Добавить раздел «Модели» — 3D-редактор физических XML-моделей",
-  "sourceSha": "1585dd5109466516092a358240bc1458d8ee01ee"
+  "notes": "* Модели: производительность рендера, импорт .obj, масштаб, выбор ChildNode/рёбер по именам",
+  "sourceSha": "97eaebffd545319e25a0e142bc212b1231fd20c1"
 }
