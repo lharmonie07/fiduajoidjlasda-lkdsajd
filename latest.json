@@ -1,7 +1,7 @@
 {
-  "versionCode": 115,
-  "versionName": "1.115",
+  "versionCode": 116,
+  "versionName": "1.116",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Модели: производительность рендера, импорт .obj, масштаб, выбор ChildNode/рёбер по именам",
-  "sourceSha": "97eaebffd545319e25a0e142bc212b1231fd20c1"
+  "notes": "* Модели: исправить дефолты атрибутов узлов/рёбер по исходнику аддона",
+  "sourceSha": "37d85f22fcf54a5ab352a878528405eba3401385"
 }
