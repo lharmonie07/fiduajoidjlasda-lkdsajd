@@ -1,7 +1,7 @@
 {
-  "versionCode": 123,
-  "versionName": "1.123",
+  "versionCode": 124,
+  "versionName": "1.124",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Капсулы: отсеиваем ложные совпадения имён между разными файлами",
-  "sourceSha": "4d0fe32c12ad44130c03c3afa3128ba23b7086f9"
+  "notes": "* Капсулы: выравнивание fallback-файла по центроиду + ручной переворот модели",
+  "sourceSha": "8f85d329df35b790ee181b55a4d0a31c96904b59"
 }
