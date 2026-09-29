@@ -1,7 +1,7 @@
 {
-  "versionCode": 126,
-  "versionName": "1.126",
+  "versionCode": 127,
+  "versionName": "1.127",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Исправлена невидимая кнопка «OBJ» в редакторе моделей",
-  "sourceSha": "354c5e7d9bd6918a479fe0584d6517b334810d93"
+  "notes": "* Импорт OBJ теперь генерирует рёбра (Edge), не только узлы и поверхность",
+  "sourceSha": "93b3977a37b5066c579cd40a69ff1160fc3e2285"
 }
