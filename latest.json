@@ -1,7 +1,7 @@
 {
-  "versionCode": 120,
-  "versionName": "1.120",
+  "versionCode": 121,
+  "versionName": "1.121",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Модели: убрать лишние надписи и скачивание, подпись раздела — \"xml\"",
-  "sourceSha": "ea67566d3433d0205fb51511209eb95c8f38af8f"
+  "notes": "* Модели: свободные жесты камеры вместо кнопок зума, полноэкранный режим",
+  "sourceSha": "c2cf310dcdf9d8b93abe4e3328807de8c727fb75"
 }
