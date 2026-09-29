@@ -1,7 +1,7 @@
 {
-  "versionCode": 122,
-  "versionName": "1.122",
+  "versionCode": 123,
+  "versionName": "1.123",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Просмотрщик моделей: отрисовка капсул-коллайдеров (Type=Capsule)",
-  "sourceSha": "8d5a27ea41b54e2149798a8960497ee1418299cd"
+  "notes": "* Капсулы: отсеиваем ложные совпадения имён между разными файлами",
+  "sourceSha": "4d0fe32c12ad44130c03c3afa3128ba23b7086f9"
 }
