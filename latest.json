@@ -1,7 +1,7 @@
 {
-  "versionCode": 125,
-  "versionName": "1.125",
+  "versionCode": 126,
+  "versionName": "1.126",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Добавлен новый раздел «Редактор моделей», отдельный от просмотрщика",
-  "sourceSha": "525cff07e5d3474786290cb595116529fb2ca39c"
+  "notes": "* Исправлена невидимая кнопка «OBJ» в редакторе моделей",
+  "sourceSha": "354c5e7d9bd6918a479fe0584d6517b334810d93"
 }
