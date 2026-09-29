@@ -1,7 +1,7 @@
 {
-  "versionCode": 118,
-  "versionName": "1.118",
+  "versionCode": 119,
+  "versionName": "1.119",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Откатить редактор моделей, заменить на просмотрщик по референсу",
-  "sourceSha": "c596517bdaea84789c2647c5aee8d3df83497f5b"
+  "notes": "* Модели: исправить чёрный экран — камера не подгонялась под модель",
+  "sourceSha": "e7b144e053d287031ca8bdc01d3e729bd69c2aab"
 }
