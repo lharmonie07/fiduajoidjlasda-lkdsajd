@@ -1,7 +1,7 @@
 {
-  "versionCode": 143,
-  "versionName": "1.143",
+  "versionCode": 147,
+  "versionName": "1.147",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Добавлена стилизация стандартной темы\n* Add files via upload\n* Add files via upload\n* Add files via upload\n* Delete app/src/main/res/drawable-nodpi/.gitignore\n* Add files via upload\n* Add .gitignore to drawable-nodpi directory",
-  "sourceSha": "edb8145f00c69e588ce2ce8bae5ce0ac1f85b42c"
+  "notes": "* Исправлены незначительные баги\n* Добавлены молнии над кнопками и поверх фона\n* Улучшение градиента заднего фона\n* Delete app/src/main/res/drawable-nodpi directory",
+  "sourceSha": "e3071716f7f2a5edb69251c0938180e7558b76e9"
 }
