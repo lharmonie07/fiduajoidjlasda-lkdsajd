@@ -1,7 +1,7 @@
 {
-  "versionCode": 128,
-  "versionName": "1.128",
+  "versionCode": 132,
+  "versionName": "1.132",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Пересчёт LCC у MacroNode, зеркальное отражение вместо поворота, ручное добавление узлов/рёбер",
-  "sourceSha": "9dd24006be52b5fc7582920c328b00776efd15ce"
+  "notes": "* fix\n* fix\n* fix\n* fix",
+  "sourceSha": "5de3e71cf2dd95dc61781a0e51ce96e6ef58cbb0"
 }
