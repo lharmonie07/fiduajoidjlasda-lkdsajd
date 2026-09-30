@@ -1,7 +1,7 @@
 {
-  "versionCode": 135,
-  "versionName": "1.135",
+  "versionCode": 136,
+  "versionName": "1.136",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Add files via upload\n* Add files via upload\n* Исправлены некоторые баги",
-  "sourceSha": "1559346473e68dd41783218da2cb1594f7bcb843"
+  "notes": "* Минимизированный выбор в ChildNode",
+  "sourceSha": "f609df028ed422ffafe407c06424f6a65c434d40"
 }
