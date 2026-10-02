@@ -1,7 +1,7 @@
 {
-  "versionCode": 152,
-  "versionName": "1.152",
+  "versionCode": 153,
+  "versionName": "1.153",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Багфиксы\n* Пофикшено соединение точек",
-  "sourceSha": "da852f9ec2716c1d9659b7feff48b3a55c8ca04d"
+  "notes": "* Расширены редакторы MacroNode и Cloth",
+  "sourceSha": "078c0e3e3796d5fd4c28f0bc51b8f6fa1f0c9235"
 }
