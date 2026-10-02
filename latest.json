@@ -1,7 +1,7 @@
 {
-  "versionCode": 176,
-  "versionName": "1.176",
+  "versionCode": 178,
+  "versionName": "1.178",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Add files via upload\n* ыэыэыэыээы",
-  "sourceSha": "bbb26fc8cff70c213821103204141c257c0eeb90"
+  "notes": "* Улучшены редакторы\n* Весомая оптимизация распаковки и экстракта бандлов",
+  "sourceSha": "2fdff0a76250230a9f5e13bcac73878a2f56b4c3"
 }
