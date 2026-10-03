@@ -1,7 +1,7 @@
 {
-  "versionCode": 187,
-  "versionName": "1.187",
+  "versionCode": 195,
+  "versionName": "1.195",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Add files via upload\n* Delete app/src/main/java/com/petal/sftool/ui/theme/VineButton.kt\n* Delete app/src/main/java/com/petal/sftool/ui/theme/Theme.kt\n* Delete app/src/main/java/com/petal/sftool/ui/theme/BoltEffects.kt\n* Delete app/src/main/java/com/petal/sftool/ui/theme/Atmosphere.kt\n* Add files via upload\n* Add files via upload\n* Add files via upload\n* Add files via upload",
-  "sourceSha": "51c35265235cd9f22727f1dae9e0f594f35b2830"
+  "notes": "* Delete app/src/main/java/com/petal/sftool/theme/VineButton.kt\n* Delete app/src/main/java/com/petal/sftool/theme/Theme.kt\n* Delete app/src/main/java/com/petal/sftool/theme/BoltEffects.kt\n* Delete app/src/main/java/com/petal/sftool/theme/Atmosphere.kt\n* Delete app/src/main/java/com/petal/sftool/theme/AppSettings.kt\n* Apply update archive\n* Add files via upload\n* Add files via upload",
+  "sourceSha": "af3ff74ef5a4751b42810bd1a930c810032edb65"
 }
