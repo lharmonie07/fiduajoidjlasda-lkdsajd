@@ -1,7 +1,7 @@
 {
-  "versionCode": 209,
-  "versionName": "1.209",
+  "versionCode": 212,
+  "versionName": "1.212",
   "apkUrl": "https://raw.githubusercontent.com/lharmonie07/fiduajoidjlasda-lkdsajd/main/releases/sftool-latest.apk",
-  "notes": "* Да\n* Apply update archive\n* Add files via upload\n* Delete myapp-main directory\n* Apply update archive\n* Add files via upload",
-  "sourceSha": "ca3efee418e984b4dfcc08bdca608c475bfaf645"
+  "notes": "* Add files via upload\n* Apply update archive\n* Add files via upload",
+  "sourceSha": "ee40c0ea75ba331a526ed661e70e118721ad5706"
 }
